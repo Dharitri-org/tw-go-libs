@@ -6,7 +6,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/ME-MotherEarth/tw-go-libs/client"
+	"github.com/Dharitri-org/tw-go-libs/client"
 	"github.com/stretchr/testify/assert"
 )
 

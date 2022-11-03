@@ -3,7 +3,7 @@ package address
 import (
 	"strings"
 
-	"github.com/ME-MotherEarth/tw-go-libs/coin"
+	"github.com/Dharitri-org/tw-go-libs/coin"
 	"golang.org/x/crypto/sha3"
 )
 

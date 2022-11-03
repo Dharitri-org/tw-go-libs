@@ -416,12 +416,12 @@
   sampleAddress: 't1nbb73vhk5dtmnsgeaetbo76daepqjtrfoccn74i'
 
 - id: 999
-  symbol: MOA
-  handle: motherearth
-  name: MotherEarth
+  symbol: AND
+  handle: dharitri
+  name: Dharitri
   decimals: 18
   blockTime: 6000
-  sampleAddress: 'moa12tqtt5zcg6vpw65y4hkanvt49kzq695sr3ctuszjy92xw0ppzcssy2xd5r'  
+  sampleAddress: 'and12tqtt5zcg6vpw65y4hkanvt49kzq695sr3ctuszjy92xw0ppzcssy2xd5r'  
 
 - id: 474
   symbol: ROSE

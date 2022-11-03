@@ -1,4 +1,4 @@
-module github.com/ME-MotherEarth/tw-go-libs
+module github.com/Dharitri-org/tw-go-libs
 
 go 1.19
 

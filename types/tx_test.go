@@ -6,8 +6,8 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/ME-MotherEarth/tw-go-libs/coin"
-	"github.com/ME-MotherEarth/tw-go-libs/mock"
+	"github.com/Dharitri-org/tw-go-libs/coin"
+	"github.com/Dharitri-org/tw-go-libs/mock"
 	mapset "github.com/deckarep/golang-set"
 	"github.com/stretchr/testify/assert"
 )

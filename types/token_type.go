@@ -1,6 +1,6 @@
 package types
 
-import "github.com/ME-MotherEarth/tw-go-libs/coin"
+import "github.com/Dharitri-org/tw-go-libs/coin"
 
 type (
 	TokenType string

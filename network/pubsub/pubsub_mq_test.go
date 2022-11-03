@@ -11,8 +11,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ME-MotherEarth/tw-go-libs/network/pubsub"
-	"github.com/ME-MotherEarth/tw-go-libs/network/pubsub/mqclient"
+	"github.com/Dharitri-org/tw-go-libs/network/pubsub"
+	"github.com/Dharitri-org/tw-go-libs/network/pubsub/mqclient"
 	"github.com/ory/dockertest"
 	log "github.com/sirupsen/logrus"
 	"github.com/streadway/amqp"

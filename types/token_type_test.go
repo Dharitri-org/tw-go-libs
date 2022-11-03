@@ -3,7 +3,7 @@ package types
 import (
 	"testing"
 
-	"github.com/ME-MotherEarth/tw-go-libs/coin"
+	"github.com/Dharitri-org/tw-go-libs/coin"
 )
 
 func TestGetEthereumTokenTypeByIndex(t *testing.T) {

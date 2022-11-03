@@ -1,4 +1,4 @@
-module github.com/ME-MotherEarth/tw-go-libs/network
+module github.com/Dharitri-org/tw-go-libs/network
 
 go 1.19
 

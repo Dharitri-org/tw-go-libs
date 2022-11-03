@@ -3,7 +3,7 @@ package asset
 import (
 	"fmt"
 
-	"github.com/ME-MotherEarth/tw-go-libs/coin"
+	"github.com/Dharitri-org/tw-go-libs/coin"
 )
 
 func GetImageURL(endpoint, asset string) string {

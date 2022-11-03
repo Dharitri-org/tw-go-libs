@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/ME-MotherEarth/tw-go-libs/network/pubsub"
+	"github.com/Dharitri-org/tw-go-libs/network/pubsub"
 	"github.com/streadway/amqp"
 	"go.uber.org/atomic"
 )

@@ -5,9 +5,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/ME-MotherEarth/tw-go-libs/asset"
-	"github.com/ME-MotherEarth/tw-go-libs/coin"
-	"github.com/ME-MotherEarth/tw-go-libs/numbers"
+	"github.com/Dharitri-org/tw-go-libs/asset"
+	"github.com/Dharitri-org/tw-go-libs/coin"
+	"github.com/Dharitri-org/tw-go-libs/numbers"
 	mapset "github.com/deckarep/golang-set"
 )
 
